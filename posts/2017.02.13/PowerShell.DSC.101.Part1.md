@@ -4,10 +4,10 @@ When I started leaning about PowerShell DSC, I found lots of great technical inf
 
 I am going to make the following assumptions:
 
-..* That you know PowerShell reasonably well
-..* That you have looked at PowerShell DSC and have an idea what it is for
-..* That you're an IT pro in some capacity
-..* You are using WMF5 or later
+* That you know PowerShell reasonably well
+* That you have looked at PowerShell DSC and have an idea what it is for
+* That you're an IT pro in some capacity
+* You are using WMF5 or later
 
 So, a couple of concepts to start out with, that I think would be useful to have clearly explained before you get started.
 
