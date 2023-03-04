@@ -1,3 +1,9 @@
+---
+title: my title
+author: my name
+date: today
+---
+
 So, I recently had a problem with a PowerShell script I was deploying to Jenkins.
 The error I got was this:
 ```
