@@ -1,9 +1,14 @@
 ---
-title: my title
-author: my name
-date: today
----
+title:  'This is the title: it contains a colon'
+author:
+- Author One
+- Author Two
+keywords: [nothing, nothingness]
+abstract: |
+  This is the abstract.
 
+  It consists of two paragraphs.
+...
 So, I recently had a problem with a PowerShell script I was deploying to Jenkins.
 The error I got was this:
 ```
