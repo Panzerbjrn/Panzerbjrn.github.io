@@ -1,3 +1,11 @@
+<style>
+  table {
+    white-space: nowrap;
+  }
+  td, th {
+    white-space: nowrap;
+  }
+</style>
 
 # Cooking
 
