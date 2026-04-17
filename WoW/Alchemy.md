@@ -1,3 +1,12 @@
+<style>
+  table {
+    white-space: nowrap;
+  }
+  td, th {
+    white-space: nowrap;
+  }
+</style>
+
 # Alchemy
 
 | Recipe | Materials | Skill | G1 | G2 | G3 | Source | Sold in | Unnamed: 8 | Unnamed: 9 | Unnamed: 10 |
